@@ -1,0 +1,12 @@
+Started on Sep 3, 2022 3:35:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision efbaf89dba37cbd74be8165f105b6754545f8c2c (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.37.1'
+ > git ls-remote -h -- https://github.com/bpbhargav28/DevOps_project.git # timeout=10
+Found 1 remote heads on https://github.com/bpbhargav28/DevOps_project.git
+[poll] Latest remote head revision on refs/heads/master is: 05254dc20aed030ae3c87cfcef86050180b40f1d
+Done. Took 0.53 sec
+Changes found
