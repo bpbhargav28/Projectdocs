@@ -1,0 +1,4 @@
+[Ansible-server]
+localhost
+[k8s-MGMT-server]
+172.31.46.20
